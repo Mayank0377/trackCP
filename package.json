@@ -1,0 +1,10 @@
+{
+  "name": "trakcp",
+  "version": "1.0.0",
+  "description": "Unified Competitive Programming Dashboard",
+  "private": true,
+  "scripts": {
+    "install:all": "cd client && npm install && cd ../server && npm install"
+  },
+  "devDependencies": {}
+}
